@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.0">Jekyll</generator><link href="http://www.forbackup.tk/feed.xml" rel="self" type="application/atom+xml" /><link href="http://www.forbackup.tk/" rel="alternate" type="text/html" /><updated>2018-05-24T05:05:39+08:00</updated><id>http://www.forbackup.tk/</id><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">markdown mathjax</title><link href="http://www.forbackup.tk/general/2018/02/02/markdown.html" rel="alternate" type="text/html" title="markdown mathjax" /><published>2018-02-02T01:08:04+08:00</published><updated>2018-02-02T01:08:04+08:00</updated><id>http://www.forbackup.tk/general/2018/02/02/markdown</id><content type="html" xml:base="http://www.forbackup.tk/general/2018/02/02/markdown.html">&lt;ul id=&quot;markdown-toc&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.0">Jekyll</generator><link href="http://www.forbackup.tk/feed.xml" rel="self" type="application/atom+xml" /><link href="http://www.forbackup.tk/" rel="alternate" type="text/html" /><updated>2018-05-24T05:44:33+08:00</updated><id>http://www.forbackup.tk/</id><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">markdown mathjax</title><link href="http://www.forbackup.tk/general/2018/02/02/markdown.html" rel="alternate" type="text/html" title="markdown mathjax" /><published>2018-02-02T01:08:04+08:00</published><updated>2018-02-02T01:08:04+08:00</updated><id>http://www.forbackup.tk/general/2018/02/02/markdown</id><content type="html" xml:base="http://www.forbackup.tk/general/2018/02/02/markdown.html">&lt;ul id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#sublime-配置&quot; id=&quot;markdown-toc-sublime-配置&quot;&gt;sublime 配置&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#非公式&quot; id=&quot;markdown-toc-非公式&quot;&gt;非公式&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#公式使用参考&quot; id=&quot;markdown-toc-公式使用参考&quot;&gt;公式使用参考&lt;/a&gt;    &lt;ul&gt;
@@ -1364,7 +1364,7 @@ $ &lt;span class=&quot;se&quot;&gt;\b&lt;/span&gt;egin{Vmatrix} 1 &amp;amp; 2 &l
       &lt;li&gt;http://haixing-hu.github.io/programming/2013/09/20/how-to-use-mathjax-in-jekyll-generated-github-pages/&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-&lt;/ol&gt;</content><author><name></name></author><category term="markdown" /><category term="数学公式" /><category term="mathjax" /><summary type="html"></summary></entry><entry><title type="html">ipynb notes</title><link href="http://www.forbackup.tk/general/2018/02/02/ipynb.html" rel="alternate" type="text/html" title="ipynb notes" /><published>2018-02-02T01:08:04+08:00</published><updated>2018-02-02T01:08:04+08:00</updated><id>http://www.forbackup.tk/general/2018/02/02/ipynb</id><content type="html" xml:base="http://www.forbackup.tk/general/2018/02/02/ipynb.html"></content><author><name></name></author><category term="ipynb" /><category term="notes" /><summary type="html"></summary></entry><entry><title type="html">R 重要函数2</title><link href="http://www.forbackup.tk/data_analysis/2018/01/10/r-base-4.html" rel="alternate" type="text/html" title="R 重要函数2" /><published>2018-01-10T01:08:04+08:00</published><updated>2018-01-10T01:08:04+08:00</updated><id>http://www.forbackup.tk/data_analysis/2018/01/10/r-base-4</id><content type="html" xml:base="http://www.forbackup.tk/data_analysis/2018/01/10/r-base-4.html">&lt;ol&gt;
+&lt;/ol&gt;</content><author><name></name></author><category term="markdown" /><category term="数学公式" /><category term="mathjax" /><summary type="html"></summary></entry><entry><title type="html">R 重要函数2</title><link href="http://www.forbackup.tk/data_analysis/2018/01/10/r-base-4.html" rel="alternate" type="text/html" title="R 重要函数2" /><published>2018-01-10T01:08:04+08:00</published><updated>2018-01-10T01:08:04+08:00</updated><id>http://www.forbackup.tk/data_analysis/2018/01/10/r-base-4</id><content type="html" xml:base="http://www.forbackup.tk/data_analysis/2018/01/10/r-base-4.html">&lt;ol&gt;
   &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;.dnom&lt;/code&gt;, 密度函数,返回概率 &lt;code class=&quot;highlighter-rouge&quot;&gt;dnorm&lt;/code&gt;
     &lt;ul&gt;
       &lt;li&gt;给样本值,返回相应概率&lt;/li&gt;
@@ -3333,4 +3333,385 @@ git pull --depth 10
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;http://blog.csdn.net/rhinocero/article/details/51213947&quot;&gt;使用Grokmirror镜像服务）——镜像内核Git仓库&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="环境配置" /><category term="常用命令" /><category term="git" /><summary type="html"></summary></entry><entry><title type="html">git 常用命令</title><link href="http://www.forbackup.tk/general/2018/01/01/git-command.html" rel="alternate" type="text/html" title="git 常用命令" /><published>2018-01-01T02:08:04+08:00</published><updated>2018-01-01T02:08:04+08:00</updated><id>http://www.forbackup.tk/general/2018/01/01/git-command</id><content type="html" xml:base="http://www.forbackup.tk/general/2018/01/01/git-command.html">&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#git-常用命令&quot; id=&quot;markdown-toc-git-常用命令&quot;&gt;git 常用命令&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#中文显示&quot; id=&quot;markdown-toc-中文显示&quot;&gt;中文显示&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#查看添加提交删除找回重置修改文件&quot; id=&quot;markdown-toc-查看添加提交删除找回重置修改文件&quot;&gt;查看、添加、提交、删除、找回，重置修改文件&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#查看文件diff&quot; id=&quot;markdown-toc-查看文件diff&quot;&gt;查看文件diff&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#查看提交记录&quot; id=&quot;markdown-toc-查看提交记录&quot;&gt;查看提交记录&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#git-本地分支管理&quot; id=&quot;markdown-toc-git-本地分支管理&quot;&gt;Git 本地分支管理&lt;/a&gt;        &lt;ul&gt;
+          &lt;li&gt;&lt;a href=&quot;#查看切换创建和删除分支&quot; id=&quot;markdown-toc-查看切换创建和删除分支&quot;&gt;查看、切换、创建和删除分支&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#分支合并和rebase&quot; id=&quot;markdown-toc-分支合并和rebase&quot;&gt;分支合并和rebase&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#git补丁管理方便在多台机器上开发同步时用&quot; id=&quot;markdown-toc-git补丁管理方便在多台机器上开发同步时用&quot;&gt;Git补丁管理(方便在多台机器上开发同步时用)&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#git暂存管理&quot; id=&quot;markdown-toc-git暂存管理&quot;&gt;Git暂存管理&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#git远程分支管理&quot; id=&quot;markdown-toc-git远程分支管理&quot;&gt;Git远程分支管理&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#git远程仓库管理&quot; id=&quot;markdown-toc-git远程仓库管理&quot;&gt;Git远程仓库管理&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#创建远程仓库&quot; id=&quot;markdown-toc-创建远程仓库&quot;&gt;创建远程仓库&lt;/a&gt;        &lt;ul&gt;
+          &lt;li&gt;&lt;a href=&quot;#设置跟踪远程库和本地库&quot; id=&quot;markdown-toc-设置跟踪远程库和本地库&quot;&gt;设置跟踪远程库和本地库&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#本地仓库管理&quot; id=&quot;markdown-toc-本地仓库管理&quot;&gt;本地仓库管理&lt;/a&gt;        &lt;ul&gt;
+          &lt;li&gt;&lt;a href=&quot;#迁出多份&quot; id=&quot;markdown-toc-迁出多份&quot;&gt;迁出多份&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#配置&quot; id=&quot;markdown-toc-配置&quot;&gt;配置&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#删除文件全部记录&quot; id=&quot;markdown-toc-删除文件全部记录&quot;&gt;删除文件全部记录&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#遇到问题&quot; id=&quot;markdown-toc-遇到问题&quot;&gt;遇到问题&lt;/a&gt;        &lt;ul&gt;
+          &lt;li&gt;&lt;a href=&quot;#git-pull-碰到拒绝合并无关历史&quot; id=&quot;markdown-toc-git-pull-碰到拒绝合并无关历史&quot;&gt;git pull 碰到拒绝合并无关历史&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#参考&quot; id=&quot;markdown-toc-参考&quot;&gt;参考&lt;/a&gt;        &lt;ul&gt;
+          &lt;li&gt;&lt;a href=&quot;#video&quot; id=&quot;markdown-toc-video&quot;&gt;video&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#doc&quot; id=&quot;markdown-toc-doc&quot;&gt;doc&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#tools&quot; id=&quot;markdown-toc-tools&quot;&gt;tools&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#代码托管&quot; id=&quot;markdown-toc-代码托管&quot;&gt;代码托管&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;git-常用命令&quot;&gt;git 常用命令&lt;/h1&gt;
+
+&lt;h2 id=&quot;中文显示&quot;&gt;中文显示&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;在 Git Bash 中输入 ls 命令，可以正常显示中文文件名
+    &lt;ul&gt;
+      &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;alias ls='ls --show-control-chars --color=auto'&lt;/code&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;.\Git\etc\git-completion.bash&lt;/code&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;git config --global core.quotepath false&lt;/code&gt;
+    &lt;ul&gt;
+      &lt;li&gt;不对0x80以上的字符进行quote，解决git status/commit时中文文件名乱码&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;使得在 Git Bash 中可以正常输入中文，比如中文的 commit log。
+    &lt;ul&gt;
+      &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;set output-meta on&lt;/code&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;set convert-meta off&lt;/code&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Git\etc\inputrc&lt;/code&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;中文commit log
+    &lt;ul&gt;
+      &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;export LESSCHARSET=utf-8&lt;/code&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;.\Git\etc\profile&lt;/code&gt;&lt;/li&gt;
+      &lt;li&gt;git log 命令不像其它 vcs 一样，n 条 log 从头滚到底，它会恰当地停在第一页，按 space 键再往后翻页。这是通过将 log 送给 less 处理实现的。以上即是设置 less 的字符编码，使得 git log 可以正常显示中文。&lt;/li&gt;
+      &lt;li&gt;其实，它的值不一定要设置为 utf-8，比如 latin1 也可以……(在Cgywin中测试utf-8可以，latin1仍是乱码)。还有个办法是 git –no-pager log，在选项里禁止分页，则无需设置上面的选项。&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;用 utf-8，可以在 git gui 中正常显示代码中的中文。
+    &lt;ul&gt;
+      &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Git\etc\gitconfig&lt;/code&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;[gui]&lt;/code&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;encoding = utf-8&lt;/code&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;git默认编辑器
+    &lt;ul&gt;
+      &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;git config --global core.editor &quot;notepad&quot;&lt;/code&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;查看添加提交删除找回重置修改文件&quot;&gt;查看、添加、提交、删除、找回，重置修改文件&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;git help &amp;lt;command&amp;gt;&lt;/code&gt; : 显示command的help&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;git show&lt;/code&gt; : 显示某次提交的内容 &lt;code class=&quot;highlighter-rouge&quot;&gt;git show $id&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;git checkout -- &amp;lt;file&amp;gt;&lt;/code&gt; : 抛弃工作区修改&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;git checkout .&lt;/code&gt; : 抛弃工作区修改&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;git add &amp;lt;file&amp;gt;&lt;/code&gt; : 将工作文件修改提交到本地暂存区&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;git add .&lt;/code&gt; &lt;code class=&quot;highlighter-rouge&quot;&gt;git add -A .&lt;/code&gt; : 将所有修改过的工作文件提交暂存区&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;git rm &amp;lt;file&amp;gt;&lt;/code&gt; : 从版本库中删除文件&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;git rm &amp;lt;file&amp;gt; --cached&lt;/code&gt; : 从版本库中删除文件，但不删除文件&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;git reset &amp;lt;file&amp;gt;&lt;/code&gt; : 从暂存区恢复到工作文件&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;git reset -- .&lt;/code&gt; : 从暂存区恢复到工作文件&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;git reset --hard&lt;/code&gt; : 恢复最近一次提交过的状态，即放弃上次提交后的所有本次修改&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;git commit &amp;lt;file&amp;gt;&lt;/code&gt; &lt;code class=&quot;highlighter-rouge&quot;&gt;git commit .&lt;/code&gt; &lt;code class=&quot;highlighter-rouge&quot;&gt;git commit -a&lt;/code&gt;  : 将git add, git rm和git commit 等操作都合并在一起做 &lt;code class=&quot;highlighter-rouge&quot;&gt;git commit -am &quot;some comments&quot;&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;git commit --amend&lt;/code&gt; : 修改最后一次提交记录&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;git commit --fixup &amp;lt;sha1&amp;gt;&lt;/code&gt; :提交，自动生成提交说明&lt;code class=&quot;highlighter-rouge&quot;&gt;fixup! 原提交说明&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;git revert &amp;lt;$id&amp;gt;&lt;/code&gt; : 恢复某次提交的状态，恢复动作本身也创建次提交对象&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;git revert HEAD&lt;/code&gt; : 恢复最后一次提交的状态&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;查看文件diff&quot;&gt;查看文件diff&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;git diff &amp;lt;file&amp;gt;&lt;/code&gt; : 比较当前文件和暂存区文件差异 &lt;code class=&quot;highlighter-rouge&quot;&gt;git diff&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;git diff &amp;lt;sha1&amp;gt; &amp;lt;sha2&amp;gt;&lt;/code&gt; : 比较两次提交之间的差异&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;git diff &amp;lt;branch1&amp;gt;..&amp;lt;branch2&amp;gt;&lt;/code&gt; : 在两个分支之间比较&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;git diff --staged&lt;/code&gt; : 比较暂存区和版本库差异&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;git diff --cached&lt;/code&gt; : 比较暂存区和版本库差异&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;git diff --stat&lt;/code&gt; : 仅仅比较统计信息&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;查看提交记录&quot;&gt;查看提交记录&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;git log&lt;/code&gt; &lt;code class=&quot;highlighter-rouge&quot;&gt;git log &amp;lt;file&amp;gt;&lt;/code&gt; : 查看该文件每次提交记录&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;git log -p &amp;lt;file&amp;gt;&lt;/code&gt; : 查看每次详细修改内容的diff&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;git log -p -2&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;git log -n 2&lt;/code&gt; : 查看最近两次详细修改内容的diff&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;git log --stat&lt;/code&gt; : 查看提交统计信息&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;git log --graph --oneline&lt;/code&gt;: 简要信息，有色彩&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;git-本地分支管理&quot;&gt;Git 本地分支管理&lt;/h2&gt;
+
+&lt;h3 id=&quot;查看切换创建和删除分支&quot;&gt;查看、切换、创建和删除分支&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;git branch -r&lt;/code&gt; : 查看远程分支&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;git branch &amp;lt;new_branch&amp;gt;&lt;/code&gt; : 创建新的分支&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;git branch -v&lt;/code&gt; : 查看各个分支最后提交信息&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;git branch --merged&lt;/code&gt; : 查看已经被合并到当前分支的分支&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;git branch --no-merged&lt;/code&gt; : 查看尚未被合并到当前分支的分支&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;git checkout &amp;lt;branch&amp;gt;&lt;/code&gt; : 切换到某个分支&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;git branch -b &amp;lt;new_branch&amp;gt;&lt;/code&gt; : 创建新的分支，并且切换过去&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;git branch -b &amp;lt;new_branch&amp;gt; &amp;lt;branch&amp;gt;&lt;/code&gt; : 基于branch创建新的new_branch&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;git checkout &amp;lt;sha&amp;gt;&lt;/code&gt; : 把某次历史提交记录checkout出来，但无分支信息，切换到其他分支会自动删除&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;git checkout &amp;lt;sha&amp;gt; -b &amp;lt;new_branch&amp;gt;&lt;/code&gt; : 把某次历史提交记录checkout出来，创建成一个分支&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;git branch -d &amp;lt;branch&amp;gt;&lt;/code&gt; : 删除某个分支&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;git branch -D &amp;lt;branch&amp;gt;&lt;/code&gt; : 强制删除某个分支 (未被合并的分支被删除的时候需要强制)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;分支合并和rebase&quot;&gt;分支合并和rebase&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;git merge &amp;lt;branch&amp;gt;&lt;/code&gt; : 将branch分支合并到当前分支&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;git merge origin/master --no-ff&lt;/code&gt; : 不要Fast-Foward合并，这样可以生成merge提交&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;git rebase master &amp;lt;branch&amp;gt;&lt;/code&gt; : 将master rebase到branch，相当于： 
+ &lt;code class=&quot;highlighter-rouge&quot;&gt;git commit &amp;lt;branch&amp;gt; &amp;amp;&amp;amp; git rebase master &amp;amp;&amp;amp; git commit master &amp;amp;&amp;amp; git merge &amp;lt;branch&amp;gt;&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;git补丁管理方便在多台机器上开发同步时用&quot;&gt;Git补丁管理(方便在多台机器上开发同步时用)&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;git diff &amp;gt; ../sync.patch&lt;/code&gt; : 生成补丁&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;git apply ../sync.patch&lt;/code&gt; : 打补丁&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;git apply --check ../sync.patch&lt;/code&gt; :测试补丁能否成功&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;git暂存管理&quot;&gt;Git暂存管理&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;git stash&lt;/code&gt; : 暂存&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;git stash list&lt;/code&gt; : 列所有stash&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;git stash apply&lt;/code&gt; : 恢复暂存的内容&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;git stash drop&lt;/code&gt;  删除暂存区&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;git远程分支管理&quot;&gt;Git远程分支管理&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;git pull&lt;/code&gt; : 抓取远程仓库所有分支更新并合并到本地&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;git pull --no-ff&lt;/code&gt; : 抓取远程仓库所有分支更新并合并到本地，不要快进合并&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;git fetch origin&lt;/code&gt; : 抓取远程仓库更新&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;git merge origin/master&lt;/code&gt;  将远程主分支合并到本地当前分支&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;git checkout --track origin/branch&lt;/code&gt; : 跟踪某个远程分支创建相应的本地分支&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;git checkout -b &amp;lt;local_branch&amp;gt; origin/&amp;lt;remote_branch&amp;gt;&lt;/code&gt; : 基于远程分支创建本地分支，功能同上&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;git push&lt;/code&gt; : push所有分支&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;git push origin master&lt;/code&gt; : 将本地主分支推到远程主分支&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;git push -u origin master&lt;/code&gt; : 将本地主分支推到远程(如无远程主分支则创建，用于初始化远程仓库)&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;git push origin &amp;lt;local_branch&amp;gt;&lt;/code&gt; : 创建远程分支， origin是远程仓库名&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;git push origin &amp;lt;local_branch&amp;gt;:&amp;lt;remote_branch&amp;gt;&lt;/code&gt; : 创建远程分支&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;git push origin :&amp;lt;remote_branch&amp;gt;&lt;/code&gt; :先删除本地分支(&lt;code class=&quot;highlighter-rouge&quot;&gt;git branch -d &amp;lt;branch&amp;gt;&lt;/code&gt;)，然后再push删除远程分支&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;git push --recurse-submodules=check --progress &quot;dataReports&quot; refs/heads/dataReports:refs/heads/master&lt;/code&gt;
+    &lt;ul&gt;
+      &lt;li&gt;本地 dataReports 推送到远程 master&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;git远程仓库管理&quot;&gt;Git远程仓库管理&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;git remote -v&lt;/code&gt; : 查看远程服务器地址和仓库名称&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;git remote show origin&lt;/code&gt; : 查看远程服务器仓库状态&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;git remote add origin git@github.com:rhymeyang/Notes.git&lt;/code&gt; : 添加远程仓库地址
+    &lt;ul&gt;
+      &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;git remote set-url --push origin &amp;lt;new_url&amp;gt; [&amp;lt;old_url&amp;gt;]&lt;/code&gt; # 设置远程仓库地址&lt;/li&gt;
+      &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;git remote set-url --add origin https://github.com/rhymeyang/Notes.git&lt;/code&gt; # 设置远程仓库地址&lt;/li&gt;
+      &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;git remote set-url --delete origin git@github.com:rhymeyang/Notes.git&lt;/code&gt; # 设置远程仓库地址&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;git remote rm &amp;lt;repository&amp;gt;&lt;/code&gt; : 删除远程仓库&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;创建远程仓库&quot;&gt;创建远程仓库&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;git clone --bare git@github.com:rhymeyang/Notes.git&lt;/code&gt; : 用带版本的项目创建纯版本仓库&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;git remote add origin git@github.com:rhymeyang/Notes.git&lt;/code&gt; # 设置远程仓库地址&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;git push -u origin master&lt;/code&gt; # 客户端首次提交&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;git push -u origin develop&lt;/code&gt; # 首次将本地develop分支提交到远程develop分支，并且track&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;git remote set-head origin master&lt;/code&gt; # 设置远程仓库的HEAD指向master分支&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;设置跟踪远程库和本地库&quot;&gt;设置跟踪远程库和本地库&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;git branch --set-upstream master origin/master&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;git branch --set-upstream develop origin/develop&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;本地仓库管理&quot;&gt;本地仓库管理&lt;/h2&gt;
+
+&lt;h3 id=&quot;迁出多份&quot;&gt;迁出多份&lt;/h3&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;git worktree add [-f] [--detach] [--checkout] [--lock] [-b &amp;lt;new-branch&amp;gt;] &amp;lt;path&amp;gt; [&amp;lt;commit-ish&amp;gt;]
+git worktree list [--porcelain]
+git worktree lock [--reason &amp;lt;string&amp;gt;] &amp;lt;worktree&amp;gt;
+git worktree prune [-n] [-v] [--expire &amp;lt;expire&amp;gt;]
+git worktree unlock &amp;lt;worktree&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;配置&quot;&gt;配置&lt;/h2&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;# 查看配置
+git config --list
+git config --global --list
+
+sudo git config --list --system
+git config --list --show-origin
+
+
+# 修改配置
+git config --edit
+git config --edit --global
+sudo git config --system color.ui true
+
+git config --global http.proxy socks5://proxy_host:1080
+git config --global https.proxy socks5://proxy_host:1080
+
+git config --global http.proxy http://proxyuser:proxypwd@proxy_host:1080
+
+git config --global user.name &quot;vicky&quot;
+git config --global user.email &quot;XXX@XXX&quot;
+
+git config --global --unset http.proxy
+git config --global --unset https.proxy
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;删除文件全部记录&quot;&gt;删除文件全部记录&lt;/h2&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;git filter-branch --index-filter 'git rm --cached --ignore-unmatch &amp;lt;file_to_remove&amp;gt;' HEAD
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;遇到问题&quot;&gt;遇到问题&lt;/h2&gt;
+
+&lt;h3 id=&quot;git-pull-碰到拒绝合并无关历史&quot;&gt;git pull 碰到拒绝合并无关历史&lt;/h3&gt;
+
+&lt;p&gt;原始本地分支要备份&lt;/p&gt;
+
+&lt;p&gt;本命令冲突合并可能较多&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;git pull origin master --allow-unrelated-histories 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;参考&quot;&gt;参考&lt;/h2&gt;
+
+&lt;h3 id=&quot;video&quot;&gt;video&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCshmCws1MijkZLMkPmOmzbQ&quot;&gt;Dan Gitschooldude&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=Bo-8EfDpKxA&quot;&gt;Remove a file from all git history&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;doc&quot;&gt;doc&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://git-scm.com/book/en/v2&quot;&gt;git doc&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://git-scm.com/book/zh/v2/Git-基础-撤消操作&quot;&gt;Git 基础 - 撤消操作&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://git-scm.com/book/zh/v2/Git-内部原理-维护与数据恢复&quot;&gt;内部原理-维护与数据恢复&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://git-scm.com/docs/git-worktree&quot;&gt;worktree&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://git.kernel.org&quot;&gt;git kernel&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.kernel.org/&quot;&gt;kernel&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;tools&quot;&gt;tools&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;gitweb
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://git-scm.com/book/zh/v1/服务器上的-Git-GitWeb&quot;&gt;服务器上的 Git - GitWeb&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://git-scm.com/docs/gitweb&quot;&gt;gitweb&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://git.kernel.org/pub/scm/git/git.git&quot;&gt;gitweb example&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://serverfault.com/questions/220487/trouble-using-gitweb-with-nginx&quot;&gt;Trouble using gitweb with nginx&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;gitolite
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;http://gitolite.com/gitolite/overview/index.html&quot;&gt;gitolite overview&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://gitolite.com/gitolite/cookbook/&quot;&gt;gitolite cookbook&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://git-scm.com/book/en/v1/Git-on-the-Server-Gitosis&quot;&gt;Git on the Server - Gitosis&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://zodiacg.net/2014/05/gitolite_gitweb_nginx/&quot;&gt;配置Gitolite+Gitweb+Nginx&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://gitolite.com/gitolite/non-core/index.html&quot;&gt;“non-core” gitolite&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://gitolite.com/gitolite/concepts/&quot;&gt;concepts, conventions, and terminology&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://gitolite.com/gitolite/gitweb-daemon/index.html&quot;&gt;allowing access to gitweb and git-daemon&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;gerrit
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;http://gerrit-releases.storage.googleapis.com/index.html&quot;&gt;Gerrit Code Review - Releases&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.gerritcodereview.com/&quot;&gt;gerritcodereview&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://gerrithub.io/&quot;&gt;gerrithub&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://gerrit-review.googlesource.com/Documentation/&quot;&gt;gerrit Documentation&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://gerrit-review.googlesource.com/Documentation/access-control.html&quot;&gt;Gerrit Code Review - Access Controls&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.voidcn.com/blog/u010451780/article/p-1685383.html&quot;&gt;gerrit 安装方法&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;in openstack
+        &lt;ul&gt;
+          &lt;li&gt;&lt;a href=&quot;https://review.openstack.org/Documentation/intro-quick.html&quot;&gt;openstack gerrit&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;https://review.openstack.org/Documentation/index.html&quot;&gt;openstack Gerrit Code Review for Git&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;https://review.openstack.org/#/c/334085/&quot;&gt;openstack gerrit example&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;代码托管&quot;&gt;代码托管&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/&quot;&gt;github&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://status.github.com/messages&quot;&gt;GitHub System Status&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://developer.github.com/v3/repos/#delete-a-repository&quot;&gt;REST API v3&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://about.gitlab.com/&quot;&gt;gitlab&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://docs.gitlab.com/ce/ci/&quot;&gt;doc gitlab&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://gitlab.com/gitlab-org/gitlab-ce/tree/master&quot;&gt;code gitlab&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://github.com/gitlabhq/gitlab-recipes/tree/master/install/centos&quot;&gt;github gitlab-recipes &lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://my.oschina.net/u/2400083/blog/818222&quot;&gt;gitlab docker&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://docs.gitlab.com/ce/user/permissions.html&quot;&gt;gitlab doc permissions&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://my.oschina.net/donhui/blog/717930&quot;&gt;使用Gitlab和Gitlab CI做持续集成&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://bitnami.com/stack/gitlab&quot;&gt;bitnami gitlab&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://my.oschina.net/u/1396253/blog/181498&quot;&gt;Docker搭建Gitlab CI 全过程详解&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://feiyang.me/2013/03/work-with-gitlab/&quot;&gt;用Gitlab来工作&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://segmentfault.com/a/1190000000345686&quot;&gt;用GitLab搭建自己的私有GitHub&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://zhangmengpl.gitbooks.io/gitlab-guide/content/import_project.html&quot;&gt;gitlab import local project&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://github.com/gitlabhq/gitlab-recipes/blob/master/e-mail/configure_email.md&quot;&gt;gitlab-recipes sendmail&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://gitlab.com/gitlab-org/gitlab-ci-multi-runner&quot;&gt;GitLab.org / gitlab-ci-multi-runner&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://scarletsky.github.io/2016/07/29/use-gitlab-ci-for-continuous-integration/&quot;&gt;用 GitLab CI 进行持续集成&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://docs.gitlab.com/runner/install/&quot;&gt;Install GitLab Runner&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.jianshu.com/p/e650aac83f7a&quot;&gt;gitbook在私有gitlab上持续集成&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.cnblogs.com/restran/p/4063880.html&quot;&gt;在自己的服务器上部署 GitLab 社区版&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://blog.csdn.net/rhinocero/article/details/55807178&quot;&gt;使用Docker构建Gitlab私服&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.cnblogs.com/hanxianlong/p/3463494.html&quot;&gt;gitlab配置邮件通知&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://qiuliang.github.io/tech/2016/03/09/gitlab-backup.html&quot;&gt;如何对gitlab server进行备份和恢复&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://qiuliang.github.io/tech/2016/05/31/invoke-gitlab-api.html&quot;&gt;基于GitLab API实现自动化任务&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://docs.gitlab.com/ce/raketasks/README.html&quot;&gt;Rake tasks&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://bitbucket.org/&quot;&gt;bitbucket&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://git.oschina.net/&quot;&gt;开源中国&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://coding.net/home.html&quot;&gt;coding.net&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://code.csdn.net/&quot;&gt;code.csdn&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://code.jd.com/&quot;&gt;code.jd&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</content><author><name></name></author><category term="环境配置" /><category term="常用命令" /><category term="git" /><summary type="html"></summary></entry></feed>
